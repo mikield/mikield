@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-I'm **Vladyslav Gaysyuk**, a passionate Web Application Developer and the CEO of [CyberWolf.Studio](https://cyberwolf.studio), based in Katowice, Poland. With over three years of experience in web development, I specialize in creating dynamic and user-friendly web solutions that drive business success. :contentReference[oaicite:0]{index=0}
+I'm **Vladyslav Gaysyuk**, a passionate Web Application Developer and the CEO of [CyberWolf.Studio](https://cyberwolf.studio), based in Katowice, Poland. With over ten+ years of experience in web development, I specialize in creating dynamic and user-friendly web solutions that drive business success. 
 
 ---
 
