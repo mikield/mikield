@@ -82,6 +82,13 @@ Tooling: Claude Code, OpenCode, GitHub Copilot, custom MCP servers and command p
 <br>
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/seal-round-dark.svg">
+    <img alt="Human reviewed · Vladyslav Haisiuk" src="assets/seal-round-light.svg" width="112">
+  </picture>
+</p>
+
+<p align="center">
   <a href="https://github.com/sponsors/mikield"><img alt="Sponsor" src="https://img.shields.io/badge/Sponsor-mikield-2B2F33?style=flat-square&logo=githubsponsors&logoColor=A3ABB2"></a>
   &nbsp;
   <a href="mailto:vladyslav@cyberwolf.studio"><img alt="Email" src="https://img.shields.io/badge/vladyslav%40cyberwolf.studio-2B2F33?style=flat-square&logo=maildotru&logoColor=A3ABB2"></a>
