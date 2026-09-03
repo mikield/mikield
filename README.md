@@ -59,12 +59,12 @@ Tooling: Claude Code, OpenCode, GitHub Copilot, custom MCP servers and command p
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mikield&show_icons=true&hide_border=true&bg_color=2B2F33&title_color=F2F4F6&text_color=A3ABB2&icon_color=A3ABB2&border_radius=14&include_all_commits=true&count_private=true">
-    <img alt="GitHub stats" height="165" src="https://github-readme-stats.vercel.app/api?username=mikield&show_icons=true&hide_border=true&bg_color=F3F5F7&title_color=2B2F33&text_color=5C646B&icon_color=5C646B&border_radius=14&include_all_commits=true&count_private=true">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
+    <img alt="GitHub stats" height="170" src="assets/stats-light.svg">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mikield&layout=compact&hide_border=true&bg_color=2B2F33&title_color=F2F4F6&text_color=A3ABB2&border_radius=14&langs_count=6&hide=html,css,scss,blade">
-    <img alt="Top languages" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikield&layout=compact&hide_border=true&bg_color=F3F5F7&title_color=2B2F33&text_color=5C646B&border_radius=14&langs_count=6&hide=html,css,scss,blade">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/langs-dark.svg">
+    <img alt="Top languages" height="170" src="assets/langs-light.svg">
   </picture>
 </p>
 
